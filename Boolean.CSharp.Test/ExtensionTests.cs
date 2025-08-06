@@ -90,7 +90,7 @@ namespace Boolean.CSharp.Test
             string result = extension.multiply(source, 3);
 
             Assert.IsTrue("Hello,Hello,Hello" == result);
-        }
+        }           
         [Test]
         public void TestQuestion7()
         {

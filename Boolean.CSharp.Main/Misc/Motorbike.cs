@@ -11,7 +11,7 @@ namespace Boolean.CSharp.Main.Misc
     {
         private string _make;
         private string _model;
-        private int _cc = 0;
+        private int _cc = 373;
 
         public Motorbike()
         {
